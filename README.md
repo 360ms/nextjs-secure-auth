@@ -73,5 +73,5 @@ To get a local copy up and running follow these simple example steps.
 6. Run the project
 
 ```sh
-    npm run dev
+npm run dev
 ```
