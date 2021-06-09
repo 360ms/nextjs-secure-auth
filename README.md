@@ -4,7 +4,7 @@
   <p align="center">
     Secure auth with JWT, CSRF, PostgreSQL and Typescript
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://nextjs-secure-auth.vercel.app">View Demo</a>
   </p>
 </p>
 
